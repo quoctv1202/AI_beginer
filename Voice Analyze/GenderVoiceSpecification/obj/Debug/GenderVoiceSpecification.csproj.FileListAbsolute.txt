@@ -1,0 +1,11 @@
+C:\Users\Quoc TV\source\repos\Voice Analyze\GenderVoiceSpecification\bin\Debug\GenderVoiceSpecification.exe.config
+C:\Users\Quoc TV\source\repos\Voice Analyze\GenderVoiceSpecification\bin\Debug\GenderVoiceSpecification.exe
+C:\Users\Quoc TV\source\repos\Voice Analyze\GenderVoiceSpecification\bin\Debug\GenderVoiceSpecification.pdb
+C:\Users\Quoc TV\source\repos\Voice Analyze\GenderVoiceSpecification\obj\Debug\GenderVoiceSpecification.csprojResolveAssemblyReference.cache
+C:\Users\Quoc TV\source\repos\Voice Analyze\GenderVoiceSpecification\obj\Debug\GenderVoiceSpecification.Properties.Resources.resources
+C:\Users\Quoc TV\source\repos\Voice Analyze\GenderVoiceSpecification\obj\Debug\GenderVoiceSpecification.csproj.GenerateResource.Cache
+C:\Users\Quoc TV\source\repos\Voice Analyze\GenderVoiceSpecification\obj\Debug\GenderVoiceSpecification.csproj.CoreCompileInputs.cache
+C:\Users\Quoc TV\source\repos\Voice Analyze\GenderVoiceSpecification\obj\Debug\GenderVoiceSpecification.exe
+C:\Users\Quoc TV\source\repos\Voice Analyze\GenderVoiceSpecification\obj\Debug\GenderVoiceSpecification.pdb
+C:\Users\Quoc TV\source\repos\Voice Analyze\GenderVoiceSpecification\obj\Debug\GenderVoiceSpecification.frmMain.resources
+C:\Users\Quoc TV\source\repos\Voice Analyze\GenderVoiceSpecification\bin\Debug\NAudio.dll
